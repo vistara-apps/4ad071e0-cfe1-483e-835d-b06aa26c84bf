@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJpbnRlcmFjdGl2ZS1jb250ZW50LXN0dWRpby5jb20ifQ",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "next",
+    "name": "Interactive Content Studio",
+    "iconUrl": "https://interactive-content-studio.com/icon.png",
+    "homeUrl": "https://interactive-content-studio.com",
+    "splashImageUrl": "https://interactive-content-studio.com/splash.png",
+    "splashBackgroundColor": "#0a1929",
+    "webhookUrl": "https://interactive-content-studio.com/api/webhook",
+    "subtitle": "Create dynamic onchain content",
+    "description": "Empower Farcaster users to create interactive mini-apps and rich media experiences embedded directly into their casts, facilitating onchain actions and collaborative content creation with gas sponsorship.",
+    "screenshotUrls": [
+      "https://interactive-content-studio.com/screenshot1.png",
+      "https://interactive-content-studio.com/screenshot2.png",
+      "https://interactive-content-studio.com/screenshot3.png"
+    ],
+    "primaryCategory": "social",
+    "tags": ["content", "creator", "onchain", "frames", "interactive"],
+    "heroImageUrl": "https://interactive-content-studio.com/hero.png",
+    "tagline": "Create and share dynamic content",
+    "ogTitle": "Interactive Content Studio",
+    "ogDescription": "Create and share dynamic, onchain-enabled content directly within Farcaster",
+    "ogImageUrl": "https://interactive-content-studio.com/og-image.png"
+  }
+}
