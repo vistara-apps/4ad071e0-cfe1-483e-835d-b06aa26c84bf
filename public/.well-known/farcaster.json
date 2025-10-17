@@ -8,10 +8,10 @@
     "version": "next",
     "name": "Interactive Content Studio",
     "iconUrl": "https://interactive-content-studio.com/icon.png",
-    "homeUrl": "https://interactive-content-studio.com",
+    "homeUrl": "https://app-a26c84bf-1nl1.vercel.app",
     "splashImageUrl": "https://interactive-content-studio.com/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://interactive-content-studio.com/api/webhook",
+    "webhookUrl": "https://app-a26c84bf-1nl1.vercel.app/api/webhook",
     "subtitle": "Create dynamic onchain content",
     "description": "Empower Farcaster users to create interactive mini-apps and rich media experiences embedded directly into their casts, facilitating onchain actions and collaborative content creation with gas sponsorship.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://interactive-content-studio.com/screenshot3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["content", "creator", "onchain", "frames", "interactive"],
+    "tags": [
+      "content",
+      "creator",
+      "onchain",
+      "frames",
+      "interactive"
+    ],
     "heroImageUrl": "https://interactive-content-studio.com/hero.png",
     "tagline": "Create and share dynamic content",
     "ogTitle": "Interactive Content Studio",

@@ -1,0 +1,14 @@
+{
+  "name": "Interactive Content Studio",
+  "description": "Interactive Content Studio is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://4ad071e0-cfe1-483e-835d-b06aa26c84bf.vercel.app",
+  "properties": {
+    "app": {
+      "name": "Interactive Content Studio",
+      "description": "Interactive Content Studio is a Base Mini App built with Zara.",
+      "url": "https://4ad071e0-cfe1-483e-835d-b06aa26c84bf.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
